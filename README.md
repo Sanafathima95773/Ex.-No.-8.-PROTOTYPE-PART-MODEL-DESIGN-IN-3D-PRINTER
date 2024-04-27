@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot 2024-04-27 051836](https://github.com/Sanafathima95773/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147084627/4162d1c7-4183-43c2-a92f-13eb89941d72)
+## Name: Sana Fathima H
 
-### Name:
-### Register Number:
+### Register Number:212223240145
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
